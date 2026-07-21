@@ -1,0 +1,16 @@
+➡️ POST https://practicesoftwaretesting.com/cdn-cgi/rum?
+➡️ GET https://practicesoftwaretesting.com/apple-touch-icon.png
+➡️ GET https://practicesoftwaretesting.com/favicon-16x16.png
+➡️ GET https://practicesoftwaretesting.com/assets/img/products/pliers01.avif
+➡️ GET https://practicesoftwaretesting.com/assets/img/products/pliers02.avif
+➡️ GET https://practicesoftwaretesting.com/assets/img/products/pliers03.avif
+➡️ GET https://practicesoftwaretesting.com/assets/img/products/pliers04.avif
+➡️ GET https://practicesoftwaretesting.com/assets/img/products/pliers05.avif
+➡️ GET https://practicesoftwaretesting.com/assets/img/products/hammer01.avif
+➡️ GET https://practicesoftwaretesting.com/assets/img/products/hammer02.avif
+➡️ GET https://practicesoftwaretesting.com/assets/img/products/hammer03.avif
+➡️ GET https://practicesoftwaretesting.com/assets/img/products/hammer04.avif
+➡️ QUERY https://api.practicesoftwaretesting.com/products
+➡️ GET https://practicesoftwaretesting.com/assets/img/products/saw01.avif
+➡️ QUERY https://api.practicesoftwaretesting.com/products
+QUERY https://api.practicesoftwaretesting.com/products

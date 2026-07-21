@@ -1,14 +1,29 @@
 {
   "name": "ecommerce",
   "version": "1.0.0",
-  "description": "",
+  "description": "E-commerce test automation using Playwright",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:smoke": "playwright test --project=smoke --grep @smoke",
+    "test:debug": "playwright test --debug",
+    "test:ui": "playwright test --ui",
+    "test:report": "playwright show-report",
+    "allure:generate": "allure generate allure-results --clean",
+    "allure:open": "allure open",
+    "test:allure": "playwright test && npm run allure:generate"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/yvnaimisha-ct/ECommerce.git"
   },
-  "keywords": [],
+  "keywords": [
+    "playwright",
+    "test-automation",
+    "e-commerce",
+    "testing"
+  ],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
@@ -18,6 +33,8 @@
   "homepage": "https://github.com/yvnaimisha-ct/ECommerce#readme",
   "devDependencies": {
     "@playwright/test": "^1.61.1",
-    "@types/node": "^26.1.0"
+    "@types/node": "^26.1.0",
+    "allure-commandline": "^2.43.0",
+    "allure-playwright": "^3.10.2"
   }
 }

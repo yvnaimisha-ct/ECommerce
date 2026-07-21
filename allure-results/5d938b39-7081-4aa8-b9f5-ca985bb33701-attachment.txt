@@ -1,0 +1,23 @@
+➡️ GET https://practicesoftwaretesting.com/cdn-cgi/challenge-platform/h/b/scripts/jsd/3104729c556c/main.js?
+➡️ GET https://practicesoftwaretesting.com/chunk-VKTN4QGI.js
+➡️ GET https://practicesoftwaretesting.com/chunk-N6Q5QLZ4.js
+➡️ GET https://practicesoftwaretesting.com/chunk-HREDC46A.js
+➡️ GET https://practicesoftwaretesting.com/chunk-CRTC4WNN.js
+➡️ POST https://practicesoftwaretesting.com/cdn-cgi/challenge-platform/h/b/jsd/oneshot/3104729c556c/0.003823568029984181:1784278934:57KIM4E2UnJM4XpGVUAcOfsVie_ynuIjFaHF_XCtpXQ/a1c86d64f85d3f5d
+➡️ QUERY https://api.practicesoftwaretesting.com/products
+➡️ GET https://api.practicesoftwaretesting.com/brands
+➡️ GET https://api.practicesoftwaretesting.com/categories/tree
+➡️ GET https://api.practicesoftwaretesting.com/product-specs/names
+➡️ GET https://practicesoftwaretesting.com/assets/img/products/pliers01.avif
+➡️ GET https://practicesoftwaretesting.com/assets/img/products/pliers02.avif
+➡️ GET https://practicesoftwaretesting.com/assets/img/products/pliers03.avif
+➡️ GET https://practicesoftwaretesting.com/assets/img/products/pliers04.avif
+➡️ GET https://practicesoftwaretesting.com/assets/img/products/pliers05.avif
+➡️ GET https://practicesoftwaretesting.com/assets/img/products/hammer01.avif
+➡️ GET https://practicesoftwaretesting.com/assets/img/products/hammer02.avif
+➡️ GET https://practicesoftwaretesting.com/assets/img/products/hammer03.avif
+➡️ GET https://practicesoftwaretesting.com/assets/img/products/hammer04.avif
+➡️ QUERY https://api.practicesoftwaretesting.com/products
+➡️ GET https://practicesoftwaretesting.com/assets/img/products/saw01.avif
+➡️ QUERY https://api.practicesoftwaretesting.com/products
+QUERY https://api.practicesoftwaretesting.com/products
